@@ -1,2 +1,2 @@
-# Veri Yapıları ve Algoritma 
+# Veri Yapıları ve Algoritma Patikasının Projeleri
 * Sorularının cevapları MD dosyalarında görebilirsiniz.
