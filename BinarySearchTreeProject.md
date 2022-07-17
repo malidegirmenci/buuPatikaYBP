@@ -7,7 +7,6 @@
 ## 1.Binary Search Tree Aşamaları
 - **[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]** dizisini soldan okumaya başlıyoruz.
 - Eğer okuduğumuz sayı bir önceki sayıdan büyükse sayının sağına doğru küçükse soluna doğru kök şeklinde ilerliyoruz.
-
 ---
 
           7
