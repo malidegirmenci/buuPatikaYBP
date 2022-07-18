@@ -44,3 +44,6 @@ Temel Durum: [7,3,5,8,2,9,4,15,6]
 * A2:[3,7|,5,8,2,9,4,15,6]
 * A3:[3,5,7|,8,2,9,4,15,6]
 * A4:[3,5,7,8|,2,9,4,15,6]
+
+---
+Patika profilim: **https://app.patika.dev/malidegirmenci**

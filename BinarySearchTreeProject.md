@@ -80,5 +80,4 @@
         / \
        2   4  
 ---
-
 Patika profilim: **https://app.patika.dev/malidegirmenci**

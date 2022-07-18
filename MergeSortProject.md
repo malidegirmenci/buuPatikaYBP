@@ -39,6 +39,7 @@ Elde edilen diziler uygun bir şekilde bir kez daha birleştirilir. Dizi son hal
 * Worst case   : O(n*logn)
 * Average case : O(n*logn)
 * Best case    : O(n*logn)
-
+---
+Patika profilim: **https://app.patika.dev/malidegirmenci**
 
 
